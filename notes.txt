@@ -1,0 +1,9 @@
+npm i express dotenv
+npm i -D nodemon
+
+
+^ -> Caret
+~ -> Tilda
+
+
+Model View Controller (MVC Pattern)
