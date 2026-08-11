@@ -1,5 +1,10 @@
 # Express JS ES6 Project Structure
 
+## Add this Property in your VS Code -> "settings.json" File's Object
+```bash
+"javascript.preferences.importModuleSpecifierEnding": "js",
+```
+
 ## Clone the Github Repo
 ```bash
 git clone https://github.com/risalshahed/mern-16-ostad.git
