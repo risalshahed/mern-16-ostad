@@ -7,6 +7,11 @@
 
 ## [Create Gmail App Password](myaccount.google.com/apppasswords)
 
+## If the Link doesn't work, copy paste the following URL
+```
+myaccount.google.com/apppasswords
+```
+
 ## Clone the Github Repo
 ```bash
 git clone https://github.com/risalshahed/mern-16-ostad.git
