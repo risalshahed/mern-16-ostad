@@ -5,12 +5,7 @@
 "javascript.preferences.importModuleSpecifierEnding": "js",
 ```
 
-## [Create Gmail App Password](myaccount.google.com/apppasswords)
-
-## If the Link doesn't work, copy paste the following URL
-```
-myaccount.google.com/apppasswords
-```
+## [Create Gmail App Password](https://myaccount.google.com/apppasswords)
 
 ## Clone the Github Repo
 ```bash
