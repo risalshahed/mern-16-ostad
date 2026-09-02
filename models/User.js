@@ -24,7 +24,6 @@ const userSchema = new mongoose.Schema({
 })
 
 // Hash Password Before Saving
-
 // userSchema.pre('save', async function (next) {
 // ***************** From Version "9", Mongoose doesn't support "next()" callback anymore from their "pre" middleware. This was the bug while testing in the Live Project Class *****************
 userSchema.pre('save', async function () {
