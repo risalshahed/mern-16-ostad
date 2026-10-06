@@ -1,0 +1,2 @@
+npm install express cors sslcommerz-lts
+npm i -D nodemon
