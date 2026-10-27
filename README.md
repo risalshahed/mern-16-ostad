@@ -11,7 +11,7 @@ git clone https://github.com/risalshahed/mern-16-ostad.git
 ### Go to the Project Directory
 
 ```bash
-cd mern-15-ostad
+cd mern-16-ostad
 ```
 
 ### Switch to the Branch
