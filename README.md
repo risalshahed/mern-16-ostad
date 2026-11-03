@@ -1,16 +1,35 @@
-# React + Vite
+# Todo Application with React & Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [A Transformation from Vanilla JavaScript to React](https://gamma.app/docs/React-JS-The-UI-Library-That-Changed-Everything-wdsc33s8zlxgbxz)
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Clone the Repository
 
-## React Compiler
+```bash
+git clone https://github.com/risalshahed/mern-16-ostad.git
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Go to the Project Directory
 
-## Expanding the ESLint configuration
+```bash
+cd mern-16-ostad
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Switch to the Branch
+
+```bash
+git switch module-24-todo-crud
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start the Development Server
+
+```bash
+npm run dev
+```
